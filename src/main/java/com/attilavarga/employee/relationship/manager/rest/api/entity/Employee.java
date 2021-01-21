@@ -1,4 +1,4 @@
-package com.luv2code.springboot.cruddemo.entity;
+package com.attilavarga.employee.relationship.manager.rest.api.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
